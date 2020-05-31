@@ -6,10 +6,12 @@ CFLAGS += -g -Wall
 # the build target executable:
 TARGET = owo
 
+PREFIX ?= /usr/local
+
 all: $(TARGET)
 
 install: $(TARGET)
-	cp $< /usr/bin
+	install $< $(DESTDIR)$(PREFIX)/bin
 
 clean:
 	$(RM) $(TARGET)
