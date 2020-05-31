@@ -3,7 +3,7 @@
 #include <stdlib.h>
 
 static void help() {
-	printf("usage: owo [-h] \n");
+	printf("usage: owo [-h|-v] \n");
 	exit(EXIT_SUCCESS);
 }
 
