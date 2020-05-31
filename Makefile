@@ -8,5 +8,8 @@ TARGET = owo
 
 all: $(TARGET)
 
+install: $(TARGET)
+	cp -- $< /usr/bin
+
 clean:
 	$(RM) $(TARGET)
