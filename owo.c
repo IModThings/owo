@@ -43,4 +43,6 @@ int main(int argc, char *argv[]) {
 			d = c;
 		}
 	}
+
+	return 0;
 }
