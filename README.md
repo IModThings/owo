@@ -1,6 +1,6 @@
 # owo
 
-owo is a C program that takes text and makes it worse. it is based off of my earlier web project, [owotyper](https://tilde.pw/~fen/owotyper).
+owo is a C program that takes text and makes it worse. it is based off of my earlier web project, [owotyper](https://tilde.pw/~neko/owotyper).
 
 ## installation
 
