@@ -8,4 +8,4 @@ owo is a C program that takes text and makes it worse. it is based off of my ear
 2. `cd owo`
 3. `sudo make install`
 
-if you use Arch, it's on the [aur](https://aur.archlinux.org/packages/owo/)
+if you use Arch, it's in the [aur](https://aur.archlinux.org/packages/owo/)
